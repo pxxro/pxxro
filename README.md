@@ -1,4 +1,4 @@
-## Oie ![image](https://user-images.githubusercontent.com/87045436/180092826-4e52a5ae-303d-42e0-85d5-6560b89e3730.png), eu sou o Pedro 
+<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro Lucas</h1>
 <div align="center">
   <a href="https://github.com/pxxro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pxxro&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
@@ -10,10 +10,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_qug3xxnk.json"  background="transparent"  speed="1" align="right" alt="Animação de código" style="width: 150px; height: 150px;"  loop    controls autoplay></lottie-player>
 </div>  
-  ##
  
 <div> 
   <a href="https://instagram.com/_pedrao_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
