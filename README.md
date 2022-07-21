@@ -1,8 +1,8 @@
 <h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Pedro</h1>
 <div align="center">
   <a href="https://github.com/pxxro">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pxxro&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxro&layout=compact&langs_count=8&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pxxro&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxxro&layout=compact&langs_count=8&theme=swift"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
