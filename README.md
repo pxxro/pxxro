@@ -1,4 +1,4 @@
-<h1 align="left">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Pedro</h1>
+<h1 align="left">Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Pedro</h1>
 <div align="center">
   <a href="https://github.com/pxxro">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=pxxro&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
